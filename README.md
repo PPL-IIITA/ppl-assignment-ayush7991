@@ -29,5 +29,8 @@ nmn.txt <br>
 #Class Diagram:
 classdiagram.pdf
 
+#Source file:
+Go in build/classes/sampleppl
+
 #Submission By:
 Ayush Agarwal : RIT2015036
