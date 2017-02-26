@@ -17,5 +17,14 @@ $java sampleppl.Sampleppl<br>
 #Documentation:
 Open index.html inside Documentation Folder
 
+#CSV Files:
+Open build/classes folder<br>
+noncsv -> boys<br>
+nongirll.csv -> girls<br>
+
+#Log File:
+Open build/classes folder<br>
+nmn.txt <br>
+
 #Submission By:
 Ayush Agarwal : RIT2015036
