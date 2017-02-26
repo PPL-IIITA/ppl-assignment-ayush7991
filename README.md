@@ -9,7 +9,7 @@ ppl-assignment-ayush7991 created by GitHub Classroom
 # Build ( on terminal )
 
 question 1<br>
-$cd ppl-assignment-ayush7991-master/q1/src/sampleppl<br>
+$cd ppl-assignment-ayush7991/q1/src/sampleppl<br>
 $javac *.java<br>
 $cd..<br>
 $java sampleppl.Sampleppl<br>
@@ -35,7 +35,7 @@ Go in build/classes/sampleppl
 
 
 question 2<br>
-$cd ppl-assignment-ayush7991-master/q2/src/sampleppl<br>
+$cd ppl-assignment-ayush7991/q2/src/sampleppl<br>
 $javac *.java<br>
 $cd..<br>
 $java sampleppl.Sampleppl<br>
@@ -44,12 +44,12 @@ $java sampleppl.Sampleppl<br>
 Open index.html inside Documentation Folder
 
 #CSV Files:
-$cd ppl-assignment-ayush7991-master/q2/src<br>
+$cd ppl-assignment-ayush7991/q2/src<br>
 noncsv -> boys<br>
 nongirll.csv -> girls<br>
 
 #Log File:
-$cd ppl-assignment-ayush7991-master/q2/src<br>
+$cd ppl-assignment-ayush7991/q2/src<br>
 Open build/classes folder<br>
 nmn.txt <br>
 
