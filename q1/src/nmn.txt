@@ -1,0 +1,36 @@
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy1 got engaged with girl12
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy3 got engaged with girl11
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy5 got engaged with girl4
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy6 got engaged with girl17
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy7 got engaged with girl1
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy8 got engaged with girl8
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy9 got engaged with girl9
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy10 got engaged with girl2
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy11 got engaged with girl10
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy12 got engaged with girl18
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy14 got engaged with girl15
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy16 got engaged with girl13
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy22 got engaged with girl19
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy27 got engaged with girl3
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy33 got engaged with girl6
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy56 got engaged with girl5
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy67 got engaged with girl7
+Feb 26, 2017 10:15:40 PM sampleppl.Sampleppl main
+INFO: boy76 got engaged with girl14
