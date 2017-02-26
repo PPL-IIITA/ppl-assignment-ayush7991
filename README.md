@@ -18,11 +18,12 @@ $java sampleppl.Sampleppl<br>
 Open index.html inside Documentation Folder
 
 #CSV Files:
-Open build/classes folder<br>
+$cd ppl-assignment-ayush7991-master/q1/src<br>
 noncsv -> boys<br>
 nongirll.csv -> girls<br>
 
 #Log File:
+$cd ppl-assignment-ayush7991-master/q1/src<br>
 Open build/classes folder<br>
 nmn.txt <br>
 
