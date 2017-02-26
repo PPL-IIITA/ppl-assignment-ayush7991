@@ -8,14 +8,14 @@ ppl-assignment-ayush7991 created by GitHub Classroom
   
 # Build ( on terminal )
 
-question 1
-$cd ppl-assignment-ayush7991-master/q1/src/sampleppl
-$javac *.java
-$cd..
-$java sampleppl.Sampleppl
+question 1<br>
+$cd ppl-assignment-ayush7991-master/q1/src/sampleppl<br>
+$javac *.java<br>
+$cd..<br>
+$java sampleppl.Sampleppl<br>
 
 #Documentation:
 Open index.html inside Documentation Folder
 
-Submission By:
+#Submission By:
 Ayush Agarwal : RIT2015036
