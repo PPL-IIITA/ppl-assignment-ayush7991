@@ -33,5 +33,25 @@ classdiagram.pdf
 #Source file:
 Go in build/classes/sampleppl
 
+
+question 2<br>
+$cd ppl-assignment-ayush7991-master/q2/src/sampleppl<br>
+$javac *.java<br>
+$cd..<br>
+$java sampleppl.Sampleppl<br>
+
+#Documentation:
+Open index.html inside Documentation Folder
+
+#CSV Files:
+$cd ppl-assignment-ayush7991-master/q2/src<br>
+noncsv -> boys<br>
+nongirll.csv -> girls<br>
+
+#Log File:
+$cd ppl-assignment-ayush7991-master/q2/src<br>
+Open build/classes folder<br>
+nmn.txt <br>
+
 #Submission By:
 Ayush Agarwal : RIT2015036
