@@ -26,5 +26,8 @@ nongirll.csv -> girls<br>
 Open build/classes folder<br>
 nmn.txt <br>
 
+#Class Diagram:
+classdiagram.pdf
+
 #Submission By:
 Ayush Agarwal : RIT2015036
