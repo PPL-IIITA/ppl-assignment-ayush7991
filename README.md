@@ -53,5 +53,18 @@ $cd ppl-assignment-ayush7991/q2/src<br>
 Open build/classes folder<br>
 nmn.txt <br>
 
+question 3<br>
+$cd ppl-assignment-ayush7991/qu3/src/sampleppl<br>
+$javac *.java<br>
+$cd..<br>
+$java sampleppl.Sampleppl<br>
+
+question 4<br>
+$cd ppl-assignment-ayush7991/qu4/src/sampleppl<br>
+$javac *.java<br>
+$cd..<br>
+$java sampleppl.Sampleppl<br>
+
+
 #Submission By:
 Ayush Agarwal : RIT2015036
