@@ -12,7 +12,7 @@ package sampleppl;
 public class gifts {
     int type,value,price;
     String name;
-    public gifts()
+    public gifts(String name,int type,int value,int price)
     {
         this.name=" ";
         this.type=0;

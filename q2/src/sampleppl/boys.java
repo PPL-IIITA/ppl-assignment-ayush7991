@@ -11,8 +11,8 @@ package sampleppl;
  */
 public class boys {
     String name,status,girlfriend;
-    int attractiveness,budget,intelligence_level,min_attractionrequirement;
-    public boys(String name,int attractiveness,int budget,int intelligence_level,int min_attraction){
+    int attractiveness,budget,intelligence_level,min_attractionrequirement,type;
+    public boys(String name,int attractiveness,int budget,int intelligence_level,int min_attraction,int type){
         this.name = name;
         this.attractiveness=attractiveness;
         this.budget=budget;
@@ -20,5 +20,6 @@ public class boys {
         this.min_attractionrequirement=min_attraction;
         this.status="Single";
         this.girlfriend="";
+        this.type=type;
     }
 }
