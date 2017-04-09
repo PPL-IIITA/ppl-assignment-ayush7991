@@ -54,16 +54,16 @@ Open build/classes folder<br>
 nmn.txt <br>
 
 question 3<br>
-$cd ppl-assignment-ayush7991/qu3/src/sampleppl<br>
+$cd ppl-assignment-ayush7991/qu3/src/qu3<br>
 $javac *.java<br>
 $cd..<br>
-$java sampleppl.Sampleppl<br>
+$java qu3.Qu3<br>
 
 question 4<br>
-$cd ppl-assignment-ayush7991/qu4/src/sampleppl<br>
+$cd ppl-assignment-ayush7991/qu4/src/qu4<br>
 $javac *.java<br>
 $cd..<br>
-$java sampleppl.Sampleppl<br>
+$java qu4.Qu4<br>
 
 
 #Submission By:
